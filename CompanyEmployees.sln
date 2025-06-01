@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service.Contracts", "Servic
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service", "Service\Service.csproj", "{047549EC-2720-4676-BA02-7D24719085AA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared", "Shared\Shared.csproj", "{587021B4-87A7-48C2-8942-0876BFCD4648}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{047549EC-2720-4676-BA02-7D24719085AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{047549EC-2720-4676-BA02-7D24719085AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{047549EC-2720-4676-BA02-7D24719085AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{587021B4-87A7-48C2-8942-0876BFCD4648}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{587021B4-87A7-48C2-8942-0876BFCD4648}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{587021B4-87A7-48C2-8942-0876BFCD4648}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{587021B4-87A7-48C2-8942-0876BFCD4648}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

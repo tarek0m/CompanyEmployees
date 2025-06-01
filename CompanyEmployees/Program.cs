@@ -1,7 +1,5 @@
 using CompanyEmployees.Extenstions;
 using Microsoft.AspNetCore.HttpOverrides;
-using Microsoft.EntityFrameworkCore;
-using Repository;
 
 var builder = WebApplication.CreateBuilder(args);
 
